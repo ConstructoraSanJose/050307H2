@@ -1,2 +1,2 @@
-# 050307H2
-Cuadro general de clima de planta P30 T2
+# Códigos QR esquemas unifilares
+Esquemas unifilares de los cuadros de clima en T2
